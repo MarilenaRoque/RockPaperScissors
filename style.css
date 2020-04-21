@@ -2,8 +2,23 @@ h1, h2 {
     text-align: center;
 }
 
+body{
+    background-color: rgb(190, 51, 160);
+}
+
+h3{
+    text-align: center;
+}
+
+#body-game{
+    background-color: rgba(241, 245, 248, 0.719);
+    width: 90%;
+}
+
 #arena {
     border: 2px solid black;
+    width: 90%;
+    
 }
 
 #selectedOptions {
@@ -13,9 +28,16 @@ h1, h2 {
   margin-right: 20px;
   margin-top: 50px;
   margin-bottom: 20px;
+  width: 80%;
+
 }
 
 img {
     display: block;
     border: 2px solid black;
+}
+
+#body-game{
+    display: flex;
+    justify-content: space-around;
 }
