@@ -58,3 +58,10 @@ img {
     display: flex;
     justify-content: space-around;
 }
+
+#reset{
+    display: block;
+    margin: auto;
+    
+
+}
