@@ -1,14 +1,18 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Righteous', cursive;
 }
 
 
 h1, h2 {
     text-align: center;
+    color:white;
 }
 
 h1{
     padding: 10px;
+    background-color: rgb(7, 94, 97);
+    color: white;
+    text-shadow: gray 2px 2px;
 }
 
 body{
@@ -62,6 +66,12 @@ img {
 #reset{
     display: block;
     margin: auto;
-    
-
+    border-radius: 4px;
+    margin-bottom: 20px;
+    background-color: rgb(7, 94, 97);
+    color: white;
+    padding: 10px;
+    box-shadow: gray 2px 2px;
+    border: none;
+    font-family: 'Righteous', cursive;
 }
