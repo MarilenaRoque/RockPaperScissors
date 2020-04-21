@@ -12,13 +12,14 @@ h3{
 
 #body-game{
     background-color: rgba(241, 245, 248, 0.719);
+    border: 2px solid black;
     width: 90%;
+    padding: 20px;
 }
 
 #arena {
     border: 2px solid black;
     width: 90%;
-    
 }
 
 #selectedOptions {
@@ -28,8 +29,14 @@ h3{
   margin-right: 20px;
   margin-top: 50px;
   margin-bottom: 20px;
-  width: 80%;
+}
 
+#paper-button {
+    margin-bottom: 10px;
+}
+
+#rock-button {
+    margin-bottom: 10px;
 }
 
 img {
